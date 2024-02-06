@@ -1,4 +1,4 @@
-# terraform-2023-2-eguna
+# Ejercicio del día 2 del curso de terraform de Enero 2024
 
 
 
